@@ -1,0 +1,6 @@
+#Byte compiled
+__pycache__
+
+# data
+model\facenet_keras.h5
+dataset\lfw\
