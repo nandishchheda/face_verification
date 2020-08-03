@@ -2,7 +2,7 @@
 
 A Face Verification model using the keras implementation of Google FaceNet and MTCNN for alignment. Suitable for real-time face verification task. 
 
-The weights for the pre-trained FaceNet model can be found [here]([https://github.com/nyoki-mtl/keras-facenet]).
+The weights for the pre-trained FaceNet model is given in the references below.
 
 To use the REST API endpoints for the model run the api.py script to launch the rest service on a local server followed by the test_client.py script to make a client request to the API endpoints. 
 
