@@ -1,7 +1,7 @@
 numpy
 Flask==1.1.2
 matplotlib>=1.4.3
-tensorflow==1.7
+tensorflow==2.5.3
 keras==2.1.5
 mtcnn==0.1.0
 requests
